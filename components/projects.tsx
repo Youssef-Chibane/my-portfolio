@@ -36,7 +36,7 @@ export function Projects() {
         "Tailwind CSS",
         "Framer Motion",
         "React Toastify",
-        "Web3Form",
+        "Web3Forms",
       ],
       liveUrl: "https://estate-v2.netlify.app/",
       githubUrl: "https://github.com/Youssef-Chibane/estate-v2",
@@ -44,10 +44,10 @@ export function Projects() {
     {
       title: "Portfolio Website",
       description:
-        "A modern, responsive portfolio website with dark mode, smooth animations, and optimized performance.",
-      technologies: ["Next.js", "Tailwind CSS", "Framer Motion", "Vercel"],
-      liveUrl: "#",
-      githubUrl: "#",
+        "A modern, responsive portfolio website with dark mode and optimized performance.",
+      technologies: ["Next.js", "Tailwind CSS", "shadcn/ui"],
+      liveUrl: "youssef-chibane.me",
+      githubUrl: "https://github.com/Youssef-Chibane/my-portfolio",
     },
   ];
 

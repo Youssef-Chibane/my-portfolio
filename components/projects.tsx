@@ -46,7 +46,7 @@ export function Projects() {
       description:
         "A modern, responsive portfolio website with dark mode and optimized performance.",
       technologies: ["Next.js", "Tailwind CSS", "shadcn/ui"],
-      liveUrl: "youssef-chibane.me",
+      liveUrl: "https://youssef-chibane.me/",
       githubUrl: "https://github.com/Youssef-Chibane/my-portfolio",
     },
   ];
